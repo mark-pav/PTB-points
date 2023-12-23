@@ -1,0 +1,28 @@
+body {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+}
+
+.h1-main-page{
+    color: #CE5A67;
+    margin-top: 3%;
+    font-size: 4rem;
+}
+
+.special-box {
+    margin: 4% 0;
+}
+
+.large-number {
+    font-size: 8rem;
+}
+
+.btn {
+    margin-top: 1%;
+}
+
+.modal-content {
+    background-color: #212529;
+    color: white;
+}
